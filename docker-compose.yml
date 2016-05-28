@@ -1,0 +1,12 @@
+
+testapp:
+  restart: always
+  image: testapp
+  ports:
+    - "3000:3000"
+    
+  
+  
+
+
+
